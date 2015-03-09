@@ -1,0 +1,20 @@
+Query parser tests:
+Test: testBy passed
+Test: testInAnd passed
+Test: testIn passed
+Test: testAndAnd passed
+Test: testOr passed
+Test: testAndOrAnd passed
+Music catalogue tests:
+Test: testAlbumHashCode passed
+Test: testGenreHashCode passed
+Test: testGenreEquals passed
+Test: testAlbumEquals passed
+Music catalogue interpreter tests:
+Test: testBy passed
+Test: testIn passed
+Test: testAndOrAnd passed
+Test: testMatches passed
+Test: testInAndMatches passed
+Test: testInOrMatches passed
+DONE!  Passed: 16/16
